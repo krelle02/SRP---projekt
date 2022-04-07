@@ -1,5 +1,4 @@
-# SRP---projekt
-Dette er koden bag et kunstigt neuralt netværk, udarbejdet i forbindelse med min SRP 
+
 
 For at anvende programmeringsproget python skal det installeres fra deres hjemmeside.
 Dette gøres på følgende måde: 
